@@ -1,5 +1,5 @@
 ## Hello World :black_cat:
-My name is Daiki Nagaoka and I`m software developer. I'm from Japan, living in Tokyo.<br>
+My name is Daiki Nagaoka(he/him) and I`m software developer. I'm from Japan, living in Tokyo.<br>
 You can reach me on [Twitter](https://twitter.com/nekoze_da)
 
 ## Technologies & Tools :paw_prints:
