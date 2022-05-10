@@ -1,6 +1,6 @@
 ## Hello World :black_cat:
 My name is nekoze(he/him) and I'm software developer. I'm from Japan, living in Tokyo.<br>
-You can reach me on [Twitter](https://twitter.com/nekoze_da)
+You can reach me on [Twitter](https://twitter.com/nekoze_xxx)
 
 ## Technologies & Tools :paw_prints:
 
