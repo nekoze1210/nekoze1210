@@ -4,7 +4,7 @@ You can reach me on [Twitter](https://twitter.com/nekoze_da)
 
 ## Technologies & Tools :paw_prints:
 
-![](https://img.shields.io/static/v1?label=Keyboard&message=Apex%20Pro%20TKL&style=flat&logo=steelseries&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Keyboard&message=Keychron%20Q1&style=flat&logo=steelseries&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Mouse&message=MX%20Master%203&style=flat&logo=logitech&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=apple&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Editor&message=IntelliJ%20IDEA&logo=intellij-idea&logoColor=white&color=248A7E)
