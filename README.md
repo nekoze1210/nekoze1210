@@ -2,16 +2,17 @@
 My name is nekoze(he/him) and I'm software developer. I'm from Japan, living in Tokyo.<br>
 You can reach me on [Twitter](https://twitter.com/nekoze_da)
 
-## Technologies & Tools :paw_prints:
+## Skills & Tools :paw_prints:
 
 ![](https://img.shields.io/static/v1?label=Keyboard&message=Keychron%20Q1&style=flat&logo=steelseries&logoColor=white&color=248A7E)
-![](https://img.shields.io/static/v1?label=Mouse&message=MX%20Master%203&style=flat&logo=logitech&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Mouse&message=MX%20Master%203S&style=flat&logo=logitech&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=apple&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Editor&message=IntelliJ%20IDEA&logo=intellij-idea&logoColor=white&color=248A7E)
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&style=flat&logo=javascript&logoColor=white&color=248A7E)
-![](https://img.shields.io/static/v1?label=Code&message=TypeScript&style=flat&logo=typescript&logoColor=white&color=248A7E)
-![](https://img.shields.io/static/v1?label=Code&message=Ruby&style=flat&logo=ruby&logoColor=white&color=248A7E)
-![](https://img.shields.io/static/v1?label=Code&message=Go&style=flat&logo=go&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Language&message=HTML/CSS/JavaScriptJavaScript&style=flat&logo=html5&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Language&message=TypeScript&style=flat&logo=typescript&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Language&message=Ruby&style=flat&logo=ruby&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Language&message=Go&style=flat&logo=go&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=Code&message=Node.js&style=flat&logo=nodedotjs&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Code&message=Vue&style=flat&logo=vue.js&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Code&message=React&style=flat&logo=react&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Tools&message=Docker&style=flat&logo=docker&logoColor=white&color=248A7E)
