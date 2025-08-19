@@ -22,27 +22,31 @@ You can reach me on [X](https://twitter.com/nekoze_da).
 
 
 ## Status :octocat:
-<div align="center">  
-  <picture>  
-    <source  
-      srcset="https://github-readme-stats-xi-plum-88.vercel.app/api?username=nekoze1210&show_icons=true&title_color=248A7E&icon_color=5B623C&text_color=ffffff&bg_color=00000000&count_private=true&hide_border=true&hide_title=true"  
-      media="(prefers-color-scheme: dark)"  
-    />  
-    <source  
-      srcset="https://github-readme-stats-xi-plum-88.vercel.app/api?username=nekoze1210&show_icons=true&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&hide_title=true"  
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
-    />  
-    <img height="200" align="center" src="https://github-readme-stats-xi-plum-88.vercel.app/api?username=nekoze1210&show_icons=true&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&hide_title=true" />  
-  </picture>  
-  <picture>  
-    <source  
-      srcset="https://github-readme-stats-xi-plum-88.vercel.app/api/top-langs/?username=nekoze1210&title_color=248A7E&icon_color=5B623C&text_color=ffffff&bg_color=00000000&count_private=true&hide_border=true&layout=compact&hide_title=true"  
-      media="(prefers-color-scheme: dark)"  
-    />  
-    <source  
-      srcset="https://github-readme-stats-xi-plum-88.vercel.app/api/top-langs/?username=nekoze1210&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&layout=compact&hide_title=true"  
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
-    />  
-    <img height="200" align="center" src="https://github-readme-stats-xi-plum-88.vercel.app/api/top-langs/?username=nekoze1210&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&layout=compact&hide_title=true" />  
-  </picture>  
+<div style="display: flex; gap: 10px; align-items: start;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-xi-plum-88.vercel.app/api?username=nekoze1210&show_icons=true&title_color=248A7E&icon_color=5B623C&text_color=ffffff&bg_color=00000000&count_private=true&hide_border=true&hide_title=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-xi-plum-88.vercel.app/api?username=nekoze1210&show_icons=true&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&hide_title=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-xi-plum-88.vercel.app/api?username=nekoze1210&show_icons=true&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&hide_title=true" />
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-xi-plum-88.vercel.app/api/top-langs/?username=nekoze1210&title_color=248A7E&icon_color=5B623C&text_color=ffffff&bg_color=00000000&count_private=true&hide_border=true&layout=compact&hide_title=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-xi-plum-88.vercel.app/api/top-langs/?username=nekoze1210&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&layout=compact&hide_title=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-xi-plum-88.vercel.app/api/top-langs/?username=nekoze1210&title_color=248A7E&icon_color=5B623C&text_color=000000&bg_color=00000000&count_private=true&hide_border=true&layout=compact&hide_title=true" />
+    </picture>
+  </a>
 </div>
