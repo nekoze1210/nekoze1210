@@ -7,7 +7,7 @@ You can reach me on [X](https://twitter.com/nekoze_da).
 ![](https://img.shields.io/static/v1?label=Keyboard&message=Zoom75%20TIGA&style=flat&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Mouse&message=MX%20Master%203S&style=flat&logo=logitech&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=OS&message=macOS&style=flat&logo=apple&logoColor=white&color=248A7E)
-![](https://img.shields.io/static/v1?label=Editor&message=Windsurf&logoColor=white&color=248A7E)
+![](https://img.shields.io/static/v1?label=VSCode&message=VSCode&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Language&message=HTML/CSS/JavaScript&style=flat&logo=html5&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Language&message=TypeScript&style=flat&logo=typescript&logoColor=white&color=248A7E)
 ![](https://img.shields.io/static/v1?label=Language&message=Python&style=flat&logo=python&logoColor=white&color=248A7E)
